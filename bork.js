@@ -1,0 +1,3 @@
+function(dog) {
+    dog.bark()
+}
